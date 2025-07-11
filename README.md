@@ -52,7 +52,7 @@ Setup Instructions
     Clone the repo:
     bash
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Ashishpanwar19/LeadGEN-Pro.git
 cd YOUR_REPOSITORY_NAME
 
 Configure environment variables:
