@@ -1,4 +1,4 @@
-LeadGen Pro: AI-Powered Sales Outreach Platform
+LeadGen Pro: AI-Powered Sales Outreach Platform   https://classy-dragon-773914.netlify.app
 
 Transform your sales process with LeadGen Pro – a cutting-edge AI platform that automates lead generation, prioritization, and outreach so you can focus on closing deals faster.
 🚀 Key Features
@@ -80,4 +80,4 @@ bash
 
     npm run dev
 
-Pro Tip: For production deployment, configure Firebase Hosting or Vercel for seamless scaling.
+Pro Tip: For production deployment, configure Firebase Hosting or netfliy for seamless scaling.
