@@ -80,4 +80,4 @@ bash
 
     npm run dev
 
-Pro Tip: For production deployment, configure Firebase Hosting or netfliy for seamless scaling.
+Pro Tip: For production deployment, configure Firebase Hosting or netlify for seamless scaling.
